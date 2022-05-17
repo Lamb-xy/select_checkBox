@@ -1,24 +1,8 @@
-# question1
+# 实现【框选checkBox】
+**姓名：** 阳佩瑶
+**学校：** 广西师范大学
 
-## Project setup
-```
-npm install
-```
+> 本案例使用使用vue单页面+element-ui实现
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+效果：
+![img](https://s21.aconvert.com/convert/p3r68-cdx67/j6xon-p5qzb.gif)
